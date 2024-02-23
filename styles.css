@@ -20,7 +20,7 @@ body {
     justify-self: center;
     text-align: center;
     padding: 10px;
-    background-color: #333;
+    background-color: #171616;
     color: #ffffff;
     bottom: 0;
     left: 0;
@@ -39,7 +39,7 @@ body {
     width: 200px;
     height: 200px;
     margin: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #171616;
 }
 
 .memory-game {
@@ -70,7 +70,7 @@ body {
     width: 100px;
     height: 100px;
     margin: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #171616;
     transition: background-color 0.3s ease;
 }
 
@@ -80,59 +80,59 @@ body {
 
 /* Colores pastel */
 .color1 {
-    background-color: #ffd1dc;
+    background-color: #fbc204;
 }
 .color2 {
-    background-color: #ffecd1;
+    background-color: #0080ff;
 }
 .color3 {
-    background-color: #d1ffea;
+    background-color: #aafbd7;
 }
 .color4 {
-    background-color: #e3d1ff;
+    background-color: #e2cffd;
 }
 .color5 {
     background-color: #ffbf80;
 }
 .color6 {
-    background-color: #ffef96;
+    background-color: #f68a8a;
 }
 .color7 {
-    background-color: #aaff80;
+    background-color: rgb(128, 172, 255);
 }
 .color8 {
-    background-color: #96ffe0;
+    background-color: #72e9ff;
 }
 .color9 {
-    background-color: #ff9cf0;
+    background-color: rgba(189, 16, 204, 0.94);
 }
 .color10 {
-    background-color: #d1c2ff;
+    background-color: #77fd0d;
 }
 .color11 {
-    background-color: #b2b2b2;
+    background-color: rgba(250, 19, 115, 0.9);
 }
 .color12 {
-    background-color: #99e6e6;
+    background-color: #c9ef9a;
 }
 .color13 {
-    background-color: #d98cb3;
+    background-color: rgba(41, 2, 209, 0.83);
 }
 .color14 {
-    background-color: #d6ff80;
+    background-color: #8d9702;
 }
 .color15 {
-    background-color: #ffe080;
+    background-color: #4fdd6e;
 }
 .color16 {
-    background-color: #80ffbf;
+    background-color: #b83a04;
 }
 
 
  .button-3 {
      cursor: pointer;
      outline: 0;
-     color: #fff;
+     color: #fffcfc;
      background-color: #0d6efd;
      display: inline-block;
      font-weight: 400;

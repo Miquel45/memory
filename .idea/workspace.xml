@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c143e3-6739-4a11-8955-f576928b962f" name="Changes" comment="">
+    <list default="true" id="97c143e3-6739-4a11-8955-f576928b962f" name="Changes" comment="tria un color aleatori">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
@@ -32,9 +32,9 @@
   }
 }</component>
   <component name="GitHubPullRequestState">{
-  &quot;prStates&quot;: [
-  ]
+  &quot;prStates&quot;: []
 }</component>
+  <component name="GitLabMergeRequestsSettings">{}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/iesdh-jramon/curly-memory.git&quot;,
@@ -70,7 +70,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-e293885f7bc4-JavaScript-WS-241.12662.63" />
+        <option value="bundled-js-predefined-1d06a55b98c1-db596990d856-JavaScript-WS-241.14024.30" />
       </set>
     </attachedChunks>
   </component>
@@ -89,8 +89,21 @@
       <workItem from="1708428031395" duration="720000" />
       <workItem from="1708428966005" duration="2069000" />
       <workItem from="1708517796335" duration="2912000" />
-      <workItem from="1708671666221" duration="968000" />
+      <workItem from="1708671666221" duration="3117000" />
+      <workItem from="1709033063316" duration="2563000" />
+      <workItem from="1709123074936" duration="2457000" />
+      <workItem from="1709637590685" duration="3005000" />
+      <workItem from="1709727650366" duration="925000" />
     </task>
+    <task id="LOCAL-00001" summary="tria un color aleatori">
+      <option name="closed" value="true" />
+      <created>1708672786434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708672786434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tria un color aleatori" />
+    <option name="LAST_COMMIT_MESSAGE" value="tria un color aleatori" />
   </component>
 </project>

@@ -43,7 +43,7 @@ function pitjarbotocorrecte(colors){
         if(colorsjugats.length == posicio){
             iniciarPartida();
         }
-        //si el color és incorrecte t'avisa//
+        //si el color és incorrecte t'avisa
     }else{
     window.alert("color incorrecte")
     }

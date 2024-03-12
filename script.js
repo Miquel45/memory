@@ -35,7 +35,7 @@ function showNotification(message) {
         notification.style.display = 'none';
     }, 1000);
 }
-
+//mira si el color que pitges per veure si està a la posició correcte//
 function pitjarbotocorrecte(colors){
     console.log(colorsjugats[0]+ "  - " + colorstotals[colors] + " - " + colors)
     if(colorsjugats[posicio]== colorstotals[colors]){
@@ -43,6 +43,7 @@ function pitjarbotocorrecte(colors){
         if(colorsjugats.length == posicio){
             iniciarPartida();
         }
+        //si el color és incorrecte t'avisa//
     }else{
     window.alert("color incorrecte")
     }
